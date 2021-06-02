@@ -49,4 +49,4 @@ GPIO_PORTC_PCTL_R &= ~0xFFFF0000;
 GPIO_PORTF_PCTL_R &= ~0x000FF000;
 
 GPIO_PORTF_PUR_R|= 0x08; //Pull-up resistance for PF3 (LED)
-}
+}// 3ash ya regala 
